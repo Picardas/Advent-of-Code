@@ -1,0 +1,6 @@
+# Byte-compiled
+__pycache__/
+*.py[codz]
+
+# Advent of Code
+input*
